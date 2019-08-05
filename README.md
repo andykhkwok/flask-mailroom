@@ -1,6 +1,7 @@
 # Flask Mailroom Application
 
 Running at [https://shielded-woodland-81586.herokuapp.com/donations/](https://shielded-woodland-81586.herokuapp.com/).
+Note: I did the modification without going thou a virtual env. Will do so in the next assignment. 
 
 ## Your Task
 
